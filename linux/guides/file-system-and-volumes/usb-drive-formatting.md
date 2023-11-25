@@ -33,7 +33,7 @@ We use the fdisk utility for creating the partition. Open the partitioning tool 
 sudo fdisk /dev/sdb
 ```
 
-Create a new GPT (GUID Partition Table) schema:
+Create a new GPT (GUID Partition Table) schema by typing in "g":
 
 ```bash
 Command (m for help): g
